@@ -1,2 +1,0 @@
-# BAmazon
-MySQL homework
